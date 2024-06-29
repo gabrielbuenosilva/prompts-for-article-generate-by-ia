@@ -2,37 +2,26 @@
     <img width="100" src=".github/assets/banner.png">
 </p>
 
-
 <p align="center">
-  <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
-  </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
-  </a>
-</p>
+<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
+<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 -------
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src="./assets/preview.jpeg"
     width="400"  
   />
 </p>
 
 # Projeto artigo técnico gerado por I.A.s
 
+ > ℹ️ **NOTE:** Este repositório foi desenvolvido como parte da trilha de Fundamentos de IA para Devs do Santander Bootcamp 2024.
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
+Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover autoridade técnica.
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
-  </a>
-<p>
-
-Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
-
-<a href="https://web.dio.me/articles/diretivas-estruturais-versus-diretivas-de-atributo-qual-usar-no-angular?back=%2Farticles&page=1&order=oldest#state=044ab194-1e3a-4b8e-95fe-c0f6b3b5260e&session_state=efdc9591-d6fe-4d79-ae97-e58af45061da&code=5ac231e4-c722-46c3-bb7f-32ce5363fb78.efdc9591-d6fe-4d79-ae97-e58af45061da.a889d5a2-0d02-46df-83a5-28a1b4ac39ab" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/memoization-aumente-a-performance-das-suas-funcoes-javascript"> 📕Clique aqui para ler o artigo na DIO</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -43,21 +32,18 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 ## 📄 Prompts e ferramentas
 
 
-ChatGPT：
+#### ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| Ação | Prompt |
+| :--: | ------ |
+|  Criar Título  | Crie 10 headlines para nomes de artigos sobre o assunto JS Memoization. |
+| Gerar Conteúdo | Comporte-se como um escritor de artigos tech jovem e descontraído e escreva um artigo atendendo às {REGRAS}. {REGRAS} Escreva o artigo de maneira levemente informal, explicando seu conteúdo para o público iniciante em programação JS; Dê exemplo de códigos; Divida o artigo em blocos, com a média 5-10 linhas de conteúdo; O que é JS Memoization e onde surgiu; Onde utilizar; Quais os benefícios e os pontos de atenção; Onde os dados são armazenados; Como persistir os dados no navegador;Dê um exemplo de um código mão na massa de uma função Memo e como implementar; Ao final explique que o artigo foi criado por IA e revisado por um humano e deixe uma call action para meus próximos artigos; |
 
+#### lexica.art:
 
-Lexica.art：
-
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
-
-• Angular
-
-
+| Ação | Palavra Chave |
+| :--: | ------------- |
+| Buscar Imagem Gerada por IA | JavaScript Brain |
 
 ## ✨ Features
 
@@ -70,31 +56,4 @@ Lexica.art：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Utilize os prompts propostos acima nas ferramentas sugeridas, crie os banners com PowerPoint ou com sua ferramenta favorita, formate seu artigo diretamente na plataforma da DIO. Por fim, não deixe de revisar o conteúdo 😉!
